@@ -18,7 +18,7 @@
     <!-- Vendor -->
     <project path="vendor/xiaomi/haydn" name="vendor_xiaomi_haydn" remote="theego999-gt" revision="lineage-23.2" />
     <project path="vendor/xiaomi/haydn-firmware" name="vendor_xiaomi_haydn-firmware" remote="Never-Alive" revision="global" />
-    <project path="vendor/xiaomi/miuicamera-haydn" name="haydn-miuicamera" remote="The-Ego-999" revision="fifteen-leica" />
+    <project path="vendor/xiaomi/miuicamera-haydn" name="vendor-xiaomi-miuicamera-haydn" remote="The-Ego-999" revision="16.0" />
 
     <!-- Vendor - Common -->
     <project path="vendor/xiaomi/sm8350-common" name="vendor_xiaomi_sm8350-common" remote="theego999-gt" revision="lineage-23.2" />
